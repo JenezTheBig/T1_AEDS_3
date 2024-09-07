@@ -1,0 +1,4 @@
+4 4 7 
+Tempo de execução: 2.698000 ms
+Tempo de CPU utilizado: 0.000000 s
+Memória máxima residente: 3516 kilobytes

@@ -1,0 +1,8 @@
+Trabalho Feito Por: João Victor Ottoni Garcia e Rafael Carvalho Avidago Geraldo
+
+Listagem de arquivos: dijkstra.c, entrada.txt, FiLaPri.c, grafo.c, main.c, makefile, prototipo.h, saida.txt, uteis.c, DOCPAA.pdf.
+
+O codigo foi feito no VSCODE utilizando WSL.
+
+Para compilar o programa digite o comando 'make' no terminal.
+Para rodar o programa digite './programa -i entrada.txt -o saida.txt'
